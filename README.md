@@ -7,6 +7,8 @@
 
 DATA DEFENDERS is a cybersecurity-focused phishing URL detection platform designed to help users identify suspicious and malicious links before interacting with them. The system analyzes URLs using threat intelligence logic, spoof detection, keyword analysis, trust scoring, and reputation analysis to improve cyber awareness and digital safety.
 
+Ultimately, this project demonstrates that while digital threats are evolving, cybersecurity remains a collaborative effort—where intelligent tools act as a reliable partner to empower users in making safer online decisions.
+
 ## ⚡ Purpose
 
 The goal of DATA DEFENDERS is to spread cyber awareness and help users avoid phishing attacks and malicious links.
