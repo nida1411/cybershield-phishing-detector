@@ -74,7 +74,12 @@ python app.py
 ### Tips Page
 ![Tips](screenshots/tips.png)
 
-##🧪 Testing & Validation
+### Detection Result
+
+![Result](screenshots/result1.png)
+![Result](screenshots/result2.png)
+
+## 🧪 Testing & Validation
 
 | URL Tested | Expected Result | Actual Result |
 |------------|----------------|---------------|
@@ -82,11 +87,6 @@ python app.py
 | amazon.com | Safe | Safe |
 | amaz0n-secure-login123.xyz | Phishing | Phishing |
 | 192.168.1.10/login | Suspicious | Suspicious |
-
-### Detection Result
-
-![Result](screenshots/result1.png)
-![Result](screenshots/result2.png)
 
 
 ## UN Sustainable Development Goals
