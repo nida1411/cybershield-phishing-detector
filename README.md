@@ -14,9 +14,11 @@ Cybersecurity Threat Intelligence Platform
 
 ## 🚀 Quick Access
 
-🌐 **Live Demo:** https://data-defenders.onrender.com
+🌐 **Live Demo:** [Open DATA DEFENDERS](https://data-defenders.onrender.com)
 
 🎥 **Demo Video:** [Watch Here](https://drive.google.com/file/d/1688r6ItXJJHmLro6BTZmQw8SH46Q5fXt/view?usp=drive_link)
+
+------------
 
 DATA DEFENDERS is a cybersecurity-focused phishing URL detection platform designed to help users identify suspicious and malicious links before interacting with them. The system analyzes URLs using threat intelligence logic, spoof detection, keyword analysis, trust scoring, and reputation analysis to improve cyber awareness and digital safety.
 
@@ -24,9 +26,9 @@ Ultimately, this project demonstrates that while digital threats are evolving, c
 
 ## ⚡ Purpose
 
-The goal of DATA DEFENDERS is to spread cyber awareness and help users avoid phishing attacks and malicious links.
+The goal of DATA DEFENDERS is to promote cybersecurity awareness and help users avoid phishing attacks and malicious links.
 
-## Why DATA DEFENDERS?
+##❓Why DATA DEFENDERS?
 
 Phishing attacks remain one of the most common cyber threats because malicious websites often appear legitimate.
 DATA DEFENDERS helps users identify deceptive URLs by combining threat analysis, trust scoring, spoof detection, and cybersecurity awareness into a single platform.
@@ -70,13 +72,13 @@ DATA DEFENDERS helps users identify deceptive URLs by combining threat analysis,
 ### Scanner Page
 ![Scanner](screenshots/scanner.png)
 
-### Tips Page
-![Tips](screenshots/tips.png)
-
 ### Detection Result
 
 ![Result](screenshots/result1.png)
 ![Result](screenshots/result2.png)
+
+### Tips Page
+![Tips](screenshots/tips.png)
 
 ## 🧪 Testing & Validation
 
