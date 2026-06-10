@@ -1,4 +1,3 @@
-
 <h1 align="center">🛡️ DATA DEFENDERS</h1>
 
 <p align="center">
@@ -13,6 +12,12 @@ Cybersecurity Threat Intelligence Platform
   <img src="https://skillicons.dev/icons?i=python,flask,git,github" />
 </p>
 
+## 🚀 Quick Access
+
+🌐 **Live Demo:** https://data-defenders.onrender.com
+
+🎥 **Demo Video:** [Watch Here](https://drive.google.com/file/d/1688r6ItXJJHmLro6BTZmQw8SH46Q5fXt/view?usp=drive_link)
+
 DATA DEFENDERS is a cybersecurity-focused phishing URL detection platform designed to help users identify suspicious and malicious links before interacting with them. The system analyzes URLs using threat intelligence logic, spoof detection, keyword analysis, trust scoring, and reputation analysis to improve cyber awareness and digital safety.
 
 Ultimately, this project demonstrates that while digital threats are evolving, cybersecurity remains a collaborative effort—where intelligent tools act as a reliable partner to empower users in making safer online decisions.
@@ -21,17 +26,21 @@ Ultimately, this project demonstrates that while digital threats are evolving, c
 
 The goal of DATA DEFENDERS is to spread cyber awareness and help users avoid phishing attacks and malicious links.
 
+## Why DATA DEFENDERS?
+
+Phishing attacks remain one of the most common cyber threats because malicious websites often appear legitimate.
+DATA DEFENDERS helps users identify deceptive URLs by combining threat analysis, trust scoring, spoof detection, and cybersecurity awareness into a single platform.
+
 ## 🚀 Features
 
-- HTTPS Verification
-- Spoofed Domain Detection
-- IP Address Detection
-- Cyber Risk Score
-- Programmer URL Suggestions
-- Domain Reputation Analysis
-- Recent Threat Scan History
-- Interactive Cybersecurity Dashboard
-- Input Validation & Error Handling
+- 🛡️ Spoofed Domain Detection
+- 🔒 HTTPS Verification
+- 📊 Cyber Risk Score Generation
+- 🌐 Domain Reputation Analysis
+- 💡 Intelligent URL Suggestions
+- 📜 Recent Threat Scan History
+- ⚡ Real-Time Threat Dashboard
+- ✅ Secure Input Validation
   
 ## 🛠️ Tech Stack
 
@@ -41,40 +50,17 @@ The goal of DATA DEFENDERS is to spread cyber awareness and help users avoid phi
 - CSS
 - Regular Expressions (Regex)
 
+## 🔄 Workflow
+
+1. User submits a URL
+2. URL Validation System checks format and safety
+3. Threat Analysis Engine processes the link
+4. Spoof Detection & Reputation Analysis run
+5. Trust Score is generated
+6. Threat Dashboard displays results
+
 ## 🏗️ System Architecture
 ![Architechture](screenshots/architechture.png)
-
-## Workflow
-
-User URL Input
-       ↓
-Validation System
-       ↓
-Threat Analysis Engine
-       ↓
-Spoof Detection & Reputation Analysis
-       ↓
-Trust Score Generation
-       ↓
-Threat Dashboard Output
-
-# Installation Guide
-
-```bash
-git clone https://github.com/nida1411/DATA-DEFENDERS
-
-cd DATA-DEFENDERS
-
-pip install flask
-
-python app.py
-```
-
-## 🎥 Demo Video
-
-Watch DATA DEFENDERS in action:
-
-[Demo Video](https://drive.google.com/file/d/1688r6ItXJJHmLro6BTZmQw8SH46Q5fXt/view?usp=drive_link)
 
 ## 📸 Screenshots
 
@@ -126,13 +112,25 @@ Tested with legitimate and phishing URLs.
 ### Deployment
 Prepared for cloud deployment and GitHub hosting.
 
-## Future Enhancements
+## 🚀 Future Roadmap
 
 - AI-powered phishing prediction
 - Browser extension support
 - Live cybersecurity threat APIs
 - Advanced URL reputation systems
 - User authentication and scan logs
+
+## 🔧 Installation Guide
+
+```bash
+git clone https://github.com/nida1411/DATA-DEFENDERS
+
+cd DATA-DEFENDERS
+
+pip install -r requirements.txt
+
+python app.py
+```
 
 ## 👥 Team Members
 
